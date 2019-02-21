@@ -2,4 +2,4 @@
 This is an Android application that will give effects when tapped.
 
 ## Preview
-![](./src/sample.mov)
+![](./src/sample.gif)
